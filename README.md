@@ -16,6 +16,8 @@ Version NPM : 8.15.0
 
 Version Node : 16.17.1
 
+Database: MongoDB
+
 Install & run
 
     Clone repo git clone https://github.com/wguadalupeq/MedicalUNI.git
